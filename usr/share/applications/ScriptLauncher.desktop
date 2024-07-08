@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=ScriptLauncher
+GenericName=Script Launcher
+Comment=GUI Script Launcher
+Icon=ScriptLauncher
+Exec=ScriptLauncher
+Terminal=false
+Categories=Utility
+StartupWMClass=ScriptLauncher
+Name[en_GB]=ScriptLauncher

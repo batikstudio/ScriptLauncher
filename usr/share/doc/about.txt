@@ -1,0 +1,24 @@
+Script Launcher
+Version: 0.3
+Author: Victor Zamora
+
+Description: Script Launcher for Linux is a simple tool written with python and Qt to run scripts graphically.
+You can choose a default directory to show the .sh files contained inside.
+You can run them with double click, clicking on run button or menu action run.
+We hope you find this app useful for your system.
+
+Shortcuts:
+- Control + O - Open / change scripts folder
+- Control + R - Run the selected script
+- Control + S - Save default folder
+- Control + Q - Exit application
+
+App logo is a modificated bash icon by FSF.
+
+In App logos by Papirus Icon Theme.
+
+Github project:
+https://github.com/batikstudio/ScriptLauncher
+
+Comments vzamora@batikstudio.com
+
